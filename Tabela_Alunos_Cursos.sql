@@ -40,3 +40,6 @@ INSERT INTO Cursos VALUES (10, 'Historia');
 -- Buscar Valores
 SELECT * FROM Cursos WHERE name_curso = 'Psicologia';
 SELECT * FROM Cursos WHERE name_curso = 'Enfermagem';
+
+show tables;
+describe Alunos;
