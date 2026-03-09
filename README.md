@@ -20,7 +20,7 @@ A disciplina aborda os fundamentos de bancos de dados relacionais, desde a conce
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **SGBD Principal:** MySQL *
+* **SGBD Principal:** MySQL 
 * **Modelagem:** MyCompiler / MySQL Workbench
 
 
